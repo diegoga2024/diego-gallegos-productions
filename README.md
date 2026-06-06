@@ -62,3 +62,5 @@ Convertirnos en una comunidad reconocida por la calidad de nuestros proyectos, l
 ### DIEGO GALLEGOS PRODUCTIONS
 
 *"Creando proyectos, construyendo comunidades."*
+
+https://discord.gg/p3abqTZ3yp
