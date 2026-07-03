@@ -52,7 +52,8 @@ Convertirnos en una comunidad reconocida por la calidad de nuestros proyectos, l
 | Estado               | Versión |
 | -------------------- | ------- |
 | En desarrollo activo | 2026    |
-
+| -------------------- | ------- |
+| ???                  | 2027    |
 ## Fundador
 
 **Diego Gallegos**
